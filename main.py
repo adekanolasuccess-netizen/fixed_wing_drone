@@ -1,1 +1,1 @@
-print("Hello, RAIN!")
+print("Hello, Today!")
